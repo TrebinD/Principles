@@ -3,7 +3,7 @@ public class Post {
     String name;
     String surName;
     String patronymic;
-    long passport;
+    String passport;
     long phone;
     boolean subscription;
 }

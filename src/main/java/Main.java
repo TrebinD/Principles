@@ -4,7 +4,7 @@ public class Main {
         post.name = "Василий";
         post.surName = "Васильев";
         post.patronymic = "Иванович";
-        post.passport = 1234_567894L;
+        post.passport = "1234 № 567894";
         post.phone = 8_911_111_11_11L;
         post.subscription = true;
         post.birthday = new FormDate();
